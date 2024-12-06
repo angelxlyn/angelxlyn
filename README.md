@@ -7,7 +7,7 @@ Bachelor of Science in Computer Science
 
 <h2>Certifications</h2>
 <a href = https://courses.cognitiveclass.ai/certificates/f61d4ab913f149a78d1b51c86004c657>SQL and Relational Databases 101</a>
-<br><a href = >Oracle Cloud Infrastructure 2024 Foundations Associate</a>
+<br><a href = https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5419326&trackId=OCI2024FNDCFA&key=733d7acdcfdee96a46bfc36057a8c44b68f7b121>Oracle Cloud Infrastructure 2024 Foundations Associate</a>
 
 <h2>Skill Sets</h2>
 <div>
