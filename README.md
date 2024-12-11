@@ -8,6 +8,7 @@ Bachelor of Science in Computer Science
 <h2>Certifications</h2>
 <a href = https://courses.cognitiveclass.ai/certificates/f61d4ab913f149a78d1b51c86004c657>SQL and Relational Databases 101</a>
 <br><a href = https://catalog-education.oracle.com/ords/certview/sharebadge?id=80C6415C1F78FC2A7DECD4F982C917272023F2C5F2A8AB8BAC57172F1FF190B6&fbclid=IwY2xjawG_hi5leHRuA2FlbQIxMQABHYbSxx0DDYrYLGnu0x-p1N-wLX4cGNqCxMihk9R3YCU_yLsaygX0D_I04A_aem_tvVg9x841EQomV8Spp2tRA>Oracle Cloud Infrastructure 2024 Foundations Associate</a>
+<br><a href = https://catalog-education.oracle.com/ords/certview/sharebadge?id=80C6415C1F78FC2A7DECD4F982C91727E92B63EE7FE4C90D4D68D9336ACDAD17&fbclid=IwY2xjawHGf3dleHRuA2FlbQIxMQABHfTlUH7NRUHyg6cfZlZflGn2ah4mtQXEc7q5u37eD5IlCUYWunC7oMb-dg_aem_Ex_xleslzQb7zs_ljHFPnw>Oracle Cloud Infrastructure 2024 Data Foundations Associate</a>
 
 <h2>Skill Sets</h2>
 <div>
